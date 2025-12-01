@@ -25,7 +25,7 @@ SECRET_KEY = '%s#8!3tu+xb1zjp2h_o=asj$a#7l&_g(7fw+q25zf8ek3s8fa7'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1','192.168.243.161']
+ALLOWED_HOSTS = ['127.0.0.1','192.168.243.161','e-commerce-django-sp2j.onrender.com']
 
 
 # Application definition
