@@ -3,3 +3,4 @@ pandas>=1.0
 joblib>=1.0
 gunicorn
 Django
+PyMySQL
