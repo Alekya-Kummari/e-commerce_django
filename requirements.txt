@@ -4,3 +4,4 @@ joblib>=1.0
 gunicorn
 Django
 PyMySQL
+whitenoise
